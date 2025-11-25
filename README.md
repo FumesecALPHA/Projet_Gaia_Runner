@@ -1,4 +1,4 @@
-# Projet_Gaia_Runner
+# Projet Gaïa Runner
 Projet de 2ème année 2025 by SERAPHIN Bradley et DAVERAT Arthur
 
 ## Description du projet
