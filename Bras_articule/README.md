@@ -1,1 +1,1 @@
-# Partie 2 : Bras articulé
+# Partie 2 : Bras robotisé
