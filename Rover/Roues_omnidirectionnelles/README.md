@@ -9,4 +9,4 @@ Pour notre Rover à 4 roues motrices, les déplacement consiste à contrôler le
 
 ## Exemple en vidéo
 
-[](https://github.com/FumesecALPHA/Projet_Gaia_Runner/media/video/mecanum_wheel_exemple.mp4) 
+![Video](https://github.com/FumesecALPHA/Projet_Gaia_Runner/media/video/mecanum_wheel_exemple.mp4) 
