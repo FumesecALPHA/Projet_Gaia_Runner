@@ -11,4 +11,4 @@ On modélise la situation de la façon suivante :
 ¤ $\overrightarrow{C_{m1}}$ : couple __d'un__ moteur
 
 <ins> __Calcul :__ <\ins>  
-On sait que $\overrightarrow{C_{m1}}=\fract{\overrightarrow{F_{m1}},R}$
+On sait que $\overrightarrow{C_{m1}}=\frac{\overrightarrow{F_{m1}},R}$
