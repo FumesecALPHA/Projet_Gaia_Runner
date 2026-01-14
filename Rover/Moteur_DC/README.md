@@ -8,5 +8,5 @@ On modélise la situation de la façon suivante :
 
 <ins> __Bilan des forces :__ </ins>  
 ¤ $\overrightarrow{P}$ : le poids  
-¤ $\vec{C_{m1}}$ : couple __d'un__ moteur
+¤ $\overrightarrow{C_{m1}}$ : couple __d'un__ moteur
 
