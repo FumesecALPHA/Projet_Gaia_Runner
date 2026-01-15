@@ -18,5 +18,5 @@ On modélise la situation de la façon suivante :
 On sait que $\overrightarrow{C_{m1}}=\frac{\overrightarrow{F_{m1}}}{R}$, donc $\overrightarrow{F_{m1}}=\overrightarrow{C_{m1}}*R$  
 D'après la 2nd loi de Newton :  
   
-$\overrightarrow{F_{m1}}+\overrightarrow{F}+\overrightarrow{P}\overrightarrow{F_r}=m\overrightarrow{a}$  
+$\overrightarrow{F_{m1}}+\overrightarrow{F}+\overrightarrow{P}+\overrightarrow{F_r}=m\overrightarrow{a}$  
 
